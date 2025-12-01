@@ -7,7 +7,7 @@ A Python-based voice assistant that continuously listens for the wake word "Hell
 
 ## Setup
 
-1. Make sure you have Python 3.6 or later installed.
+1. Make sure you have Python 3.14.0 or later installed.
 2. Install required packages:
 
 ## Usage
